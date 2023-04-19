@@ -1,46 +1,46 @@
-Day ID,Date,Day of Week,Sleep Hours,Study Hours,Work Day,Eat Out/Cooked,Emotion,Feeling
-1,01/30/2023,Monday,6.5,2,no,Cooked,Blushing,😊 1st day of last semester
-2,01/31/2023,Tuesday,7,1,no,Cooked,Happy,🙂 good sleep
-3,02/01/2023,Wednesday,6.5,1,no,Eat Out,Neutral,😐 morning class
-4,02/02/2023,Thursday,6,0.75,yes,Cooked,Unamused,😒 8.5 hr work
-5,02/03/2023,Friday,8,0.25,yes,Cooked,Freezing,🥶 freezing!! It will be 20°F by the time I get off
-6,02/04/2023,Saturday,4,1,yes,Cooked,Sleepy,😴 sleepy
-7,02/05/2023,Sunday,9,1.5,yes,Eat Out,Happy,🙂 energetic
-8,02/06/2023,Monday,7,4,no,Cooked,Neutral,😐 too many classes
-9,02/07/2023,Tuesday,7,3,no,Eat Out,Happy,"🙂good day, spent time with fily"
-10,02/08/2023,Wednesday,8,2,no,Eat Out,Persevering,"😣I was feeling terrible this morning, missed the first class"
-11,02/09/2023,Thursday,6,0,yes,Eat Out,Happy,"🙂 cann't complain about anything, day went well"
-12,02/10/2023,Friday,6,1.25,yes,Cooked,Confused,"😕Missed one class earlier this week, now confused about the hw"
-13,02/11/2023,Saturday,6.5,0,yes,Cooked,Happy,🙂I had a good day today with fily
-14,02/12/2023,Sunday,5.75,3,yes,Cooked,Neutral,"😐 one usuaal day, nothing special happened"
-15,02/13/2023,Monday,8,1,no,Cooked,Expressionless,😑lots of homework to do for this week
-16,02/14/2023,Tuesday,7,5.5,no,Cooked,Neutral,😐Trying to catch up with homeworks
-17,02/15/2023,Wednesday,7.25,6.5,no,Cooked,Sleepy,😴ready to fall asleep anymoment
-18,02/16/2023,Thursday,8,5,yes,Eat Out,Persevering,😣Tierd
-19,02/17/2023,Friday,6.5,4,yes,Cooked,Disappointed,😞demotivated
-20,02/18/2023,Saturday,5,0,yes,Cooked,Holding back tears,🥹so far the worst day of this year
-21,02/19/2023,Sunday,6.5,0,yes,Cooked,Blushing,😊had a wonderful day. get to meet some new people
-22,02/20/2023,Monday,6,3,no,Cooked,Expressionless,😑 took wrong exit while 1.6 miles away from cpus; had to drive 15.4 miles extra
-23,02/21/2023,Tuesday,7.5,9,no,Cooked,Blushing,😊 1st ex of this semester went well
-24,02/22/2023,Wednesday,8.25,3,no,Eat Out,Expressionless,😑It was raining and I forgot my umbrella
-25,02/23/2023,Thursday,7.5,4,yes,Cooked,Happy,🙂 had a good talk with colleague
-26,02/24/2023,Friday,6,5.25,yes,Cooked,Disappointed,😞Too many hws due today
-27,02/25/2023,Saturday,5,7,yes,Cooked,Expressionless,😑 had a busy work day
-28,02/26/2023,Sunday,6.5,5,yes,Eat Out,Blushing,😊one of my patient said I am a happy person
-29,02/27/2023,Monday,5.25,3.5,no,Cooked,Freezing,🥶I am freezing today
-30,02/28/2023,Tuesday,8.75,7.75,no,Cooked,Happy,"🙂 Today's class will be virtual, so I have a lot of time to do other things"
-31,03/01/2023,Wednesday,6.5,4.5,no,Cooked,Blushing,😊 one of my cousine is getting married💕
-32,03/02/2023,Thursday,8,2,yes,Cooked,Yawning,"🥱 boring day, had to work alone"
-33,03/03/2023,Friday,7.25,6.5,yes,Cooked,Persevering,😣trying hard to finish coding hw so that I don't run into tech issue as last time
-34,03/04/2023,Saturday,6,0,yes,Eat Out,Weary,😩had a very busy day
-35,03/05/2023,Sunday,8.25,4,yes,Cooked,Sleepy,"😪 been through a tiring week, need a break"
-36,03/06/2023,Monday,7.5,3,no,Cooked,Happy,"🙂 had a good day, talked to friend"
-37,03/07/2023,Tuesday,6.25,5.25,no,Eat Out,Happy,"🙂 cann't complain about anything, day went well"
-38,03/08/2023,Wednesday,7.75,4,no,Eat Out,Grinning,😀 finally had some time to do something fun other than work and course work
-39,03/09/2023,Thursday,8.25,4.5,yes,Cooked,Loving,"🥰 my cousin just got married, I am very happy for him"
-40,03/10/2023,Friday,5.5,4.75,yes,Cooked,Neutral,"😐 mixed feelings, some part of the day was good, other part wasn't so great"
-41,03/11/2023,Saturday,5.25,3.75,yes,Cooked,Happy,🙂 met my aunt and cousin today
-42,03/12/2023,Sunday,6.25,6.75,yes,Eat Out,Unamused,😒 too many mid terms and assignmnets due this week
-43,03/13/2023,Monday,5,6.25,no,Cooked,Weary,"😩 so many assignments to do, need atleast one extention!"
-44,03/14/2023,Tuesday,6.5,1.75,no,Cooked,Neutral,"😐 made some time to visit my aunt, class got cancelled"
-45,03/15/2023,Wednesday,5.75,7.5,no,Eat Out,Happy,"🙂 mid term went well, cann't wait for spring break"
+Day ID,Day of Week,Sleep Hours,Study Hours,Work Day,Eat Out/Cooked,Emotion
+1,Monday,6.5,2,no,Cooked,Blushing
+2,Tuesday,7,1,no,Cooked,Happy
+3,Wednesday,6.5,1,no,Eat Out,Neutral
+4,Thursday,6,0.75,yes,Cooked,Unamused
+5,Friday,8,0.25,yes,Cooked,Freezing
+6,Saturday,4,1,yes,Cooked,Sleepy
+7,Sunday,9,1.5,yes,Eat Out,Happy
+8,Monday,7,4,no,Cooked,Neutral
+9,Tuesday,7,3,no,Eat Out,Happy
+10,Wednesday,8,2,no,Eat Out,Persevering
+11,Thursday,6,0,yes,Eat Out,Happy
+12,Friday,6,1.25,yes,Cooked,Confused
+13,Saturday,6.5,0,yes,Cooked,Happy
+14,Sunday,5.75,3,yes,Cooked,Neutral
+15,Monday,8,1,no,Cooked,Expressionless
+16,Tuesday,7,5.5,no,Cooked,Neutral
+17,Wednesday,7.25,6.5,no,Cooked,Sleepy
+18,Thursday,8,5,yes,Eat Out,Persevering
+19,Friday,6.5,4,yes,Cooked,Disappointed
+20,Saturday,5,0,yes,Cooked,Holding back tears
+21,Sunday,6.5,0,yes,Cooked,Blushing
+22,Monday,6,3,no,Cooked,Expressionless
+23,Tuesday,7.5,9,no,Cooked,Blushing
+24,Wednesday,8.25,3,no,Eat Out,Expressionless
+25,Thursday,7.5,4,yes,Cooked,Happy
+26,Friday,6,5.25,yes,Cooked,Disappointed
+27,Saturday,5,7,yes,Cooked,Expressionless
+28,Sunday,6.5,5,yes,Eat Out,Blushing
+29,Monday,5.25,3.5,no,Cooked,Freezing
+30,Tuesday,8.75,7.75,no,Cooked,Happy
+31,Wednesday,6.5,4.5,no,Cooked,Blushing
+32,Thursday,8,2,yes,Cooked,Yawning
+33,Friday,7.25,6.5,yes,Cooked,Persevering
+34,Saturday,6,0,yes,Eat Out,Weary
+35,Sunday,8.25,4,yes,Cooked,Sleepy
+36,Monday,7.5,3,no,Cooked,Happy
+37,Tuesday,6.25,5.25,no,Eat Out,Happy
+38,Wednesday,7.75,4,no,Eat Out,Grinning
+39,Thursday,8.25,4.5,yes,Cooked,Loving
+40,Friday,5.5,4.75,yes,Cooked,Neutral
+41,Saturday,5.25,3.75,yes,Cooked,Happy
+42,Sunday,6.25,6.75,yes,Eat Out,Unamused
+43,Monday,5,6.25,no,Cooked,Weary
+44,Tuesday,6.5,1.75,no,Cooked,Neutral
+45,Wednesday,5.75,7.5,no,Eat Out,Happy
